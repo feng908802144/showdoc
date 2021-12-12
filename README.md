@@ -1,4 +1,4 @@
-﻿# ShowDoc
+﻿# ShowDoc  一款基于 JavaScript 实现的开源在线文档工具。支持：多端编辑查看、权限管理、文档导出、Markdown 语法等，功能虽不多但已足够用了。推荐自建自用、小团队内部使用
 
 ## [点击查看中文版教程](https://www.showdoc.com.cn/help)
 
